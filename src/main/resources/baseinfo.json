@@ -1,0 +1,64 @@
+[
+  {
+    "areacode": "420100",
+    "prov": "HuBeiSheng",
+    "city": "WuHanShi",
+    "carType": "cz",
+    "baseInfo": {
+      "frim": "rm",
+      "mdtl": "http://120.202.28.253:48081/getMdt",
+      "company": "http://120.202.28.253:48081/getCompany",
+      "car": "http://120.202.28.253:48081/getCar",
+      "driver": "http://120.202.28.253:48081/getDriver"
+    },
+    "advertInfo": {
+      "frim": "sj",
+      "adv_list": "http://120.202.28.253:8001/data/queryAdvertInfoList",
+      "order_list": "http://120.202.28.253:8001/data/queryHistoryCommandList",
+      "order_detail": "http://120.202.28.253:8001/data/queryCommandDetailList",
+      "adv_fen": "http://120.202.28.253:8001/data/queryElectricFenceList",
+      "dev_list": "http://120.202.28.253:8001/data/queryDeviceList",
+      "dev_detail": "http://120.202.28.253:8001/data/queryDeviceAdvertList",
+      "adv_playtime": "http://120.202.28.253:8001/data/queryPlayTimeList",
+      "adv_timedate": "http://120.202.28.253:8001/data/queryTimeDateList"
+    }
+  },
+  {
+    "areacode": "210100",
+    "prov": "LiaoNingSheng",
+    "city": "ShenYangShi",
+    "carType": "cz",
+    "baseInfo": {
+      "frim": "rm",
+      "mdtl": "http://61.161.206.242:48081/getMdt",
+      "company": "http://61.161.206.242:48081/getCompany",
+      "car": "http://61.161.206.242:48081/getCar",
+      "driver": "http://61.161.206.242:48081/getDriver"
+    },
+    "advertInfo": {
+      "frim": "sj",
+      "adv_list": "http://61.161.206.242:8001/data/queryAdvertInfoList",
+      "order_list": "http://61.161.206.242:8001/data/queryHistoryCommandList",
+      "order_detail": "http://61.161.206.242:8001/data/queryCommandDetailList",
+      "adv_fen": "http://61.161.206.242:8001/data/queryElectricFenceList",
+      "dev_list": "http://61.161.206.242:8001/data/queryDeviceList",
+      "dev_detail": "http://61.161.206.242:8001/data/queryDeviceAdvertList",
+      "adv_playtime": "http://61.161.206.242:8001/data/queryPlayTimeList",
+      "adv_timedate": "http://61.161.206.242:8001/data/queryTimeDateList"
+    }
+  },
+  {
+    "areacode": "530300",
+    "prov": "YunNanSheng",
+    "city": "QuJingShi",
+    "carType": "cz",
+    "baseInfo": {
+      "frim": "rm",
+      "mdtl": "http://220.164.162.34:48081/getMdt",
+      "company": "http://220.164.162.34:48081/getCompany",
+      "car": "http://220.164.162.34:48081/getCar",
+      "driver": "http://220.164.162.34:48081/getDriver"
+    },
+    "advertInfo": {}
+  }
+]
